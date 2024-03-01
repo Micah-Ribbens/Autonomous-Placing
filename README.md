@@ -1,11 +1,6 @@
-Finished Development: 04/05/2023
+Finished Development: 
 
-# Getting the code (not published yet)
-Wrist: NA
-
-Claw: NA
-
-GrabAndGo: NA
+04/05/2023
 
 # Summary
 The main automation of the placing sequence was in a subsystem called GrabAndGo. It controlled the interactions among the other subsystems to automate the task of placing a game piece.
